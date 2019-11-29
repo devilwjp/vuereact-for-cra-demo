@@ -8,7 +8,7 @@
 npm i vue vue-loader vue-template-compiler react-app-rewired vuereact-combined -S
 ````  
 + 在根目创建config-overrides.js  
-````  
+````jsx harmony  
 const VueLoaderPlugin = require('vue-loader/lib/plugin');
 module.exports = function override(config, env) {
     config.module.rules[2].oneOf[7].exclude.push(/\.vue$/)
