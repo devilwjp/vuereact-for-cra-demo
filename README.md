@@ -7,6 +7,18 @@
 ````  
 npm i vue vue-loader vue-template-compiler react-app-rewired vuereact-combined -S
 ````  
++ 修改项目的启动命令(根据react-app-rewired官方说明)  
+````json  
+/* package.json */
+"scripts": {
+-   "start": "react-scripts start",
++   "start": "react-app-rewired start",
+-   "build": "react-scripts build",
++   "build": "react-app-rewired build",
+-   "test": "react-scripts test",
++   "test": "react-app-rewired test",
+}
+````  
 + 在根目创建config-overrides.js  
 ````jsx harmony  
 const VueLoaderPlugin = require('vue-loader/lib/plugin');
