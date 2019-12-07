@@ -1,5 +1,6 @@
 # 一个纯净的通过create-react-app创建的项目集成了vue  
 被用于VueReact(vuereact-combined)的demo用例  
+在线demo https://devilwjp.github.io/vuereact-for-cra-demo/build/index.html#/  
 
 ## demo项目的创造步骤日志  
 + 通过create-react-app创建一个项目  
