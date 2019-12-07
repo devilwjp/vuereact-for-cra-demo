@@ -12,8 +12,8 @@ function App() {
           <header className="App-header">
             <div>
                 <Link to="/">Home</Link> |&nbsp;
-              <Link to="/vueInReact1">在react组件中引用组件</Link> |&nbsp;
-              <Link to="/vueInReact2">在react组件中引用组件(advanced)</Link> |&nbsp;
+              <Link to="/vueInReact1">在react组件中引用vue组件</Link> |&nbsp;
+              <Link to="/vueInReact2">在react组件中引用vue组件(advanced)</Link> |&nbsp;
                 <Link to="/eleInReact">在react组件中使用vue的element-ui复杂demo</Link>
             </div>
             {renderRoutes(routers)}
