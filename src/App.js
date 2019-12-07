@@ -1,28 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import { useVueInReact } from 'vuereact-combined'
-const VueCom1 = useVueInReact(require('./test1.vue'))
+import { renderRoutes } from 'react-router-config'
+import { HashRouter, Link } from 'react-router-dom'
+import routers from './router'
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <VueCom1/>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <HashRouter>
+        <div className="App">
+          <header className="App-header">
+            <div>
+                <Link to="/">Home</Link> |&nbsp;
+              <Link to="/vueInReact1">在react组件中引用组件</Link> |&nbsp;
+              <Link to="/vueInReact2">在react组件中引用组件(advanced)</Link> |&nbsp;
+                <Link to="/eleInReact">在react组件中使用vue的element-ui复杂demo</Link>
+            </div>
+            {renderRoutes(routers)}
+          </header>
+        </div>
+      </HashRouter>
   );
 }
 

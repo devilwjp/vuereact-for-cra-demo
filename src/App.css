@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+
+.App a{
+  cursor: pointer;
+  color: #fff;
+  text-decoration: none;
+}
+
+.App a:hover{
+  text-decoration: underline;
+}
