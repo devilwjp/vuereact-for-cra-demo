@@ -4,7 +4,7 @@ const Home = lazy(() => import("../views/Home"))
 const VueInReact1 = lazy(() => import("../demo/VueInReact1"))
 const VueInReact2 = lazy(() => import("../demo/VueInReact2"))
 const EleInReact = lazy(() => import("../demo/EleInReact"))
-
+const HelloWorld = lazy(() => import("../demo/demo1"))
 //懒加载vue组件
 const TestVue = lazyVueInReact(()=>import("../vue_app/test1.vue"))
 
@@ -50,6 +50,17 @@ export default [
             return (
                 <Suspense fallback={<div>Loading...</div>}>
                     <EleInReact/>
+                </Suspense>
+            );
+        }
+    },
+    {
+        path: "/helloworld",
+        exact: true,
+        component: () => {
+            return (
+                <Suspense fallback={<div>Loading...</div>}>
+                    <HelloWorld/>
                 </Suspense>
             );
         }

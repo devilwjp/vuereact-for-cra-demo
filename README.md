@@ -12,12 +12,9 @@ npm i vue vue-loader vue-template-compiler react-app-rewired vuereact-combined -
 ````json  
 /* package.json */
 "scripts": {
--   "start": "react-scripts start",
-+   "start": "react-app-rewired start",
--   "build": "react-scripts build",
-+   "build": "react-app-rewired build",
--   "test": "react-scripts test",
-+   "test": "react-app-rewired test",
+   "start": "react-app-rewired start",
+   "build": "react-app-rewired build",
+   "test": "react-app-rewired test",
 }
 ````  
 + 在根目创建config-overrides.js  

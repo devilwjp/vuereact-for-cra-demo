@@ -20,9 +20,9 @@
         },
         props: ['prop1', 'prop2'],
         mounted () {
-            console.log(this)
-            this.$emit('event1', '11', '22')
-            this.$emit('input', 2222)
+            // console.log(this)
+            // this.$emit('event1', '11', '22')
+            // this.$emit('input', 2222)
         }
     }
 </script>

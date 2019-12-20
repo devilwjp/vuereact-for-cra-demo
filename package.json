@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "react-app-rewired": "^2.1.5",
-    "vuereact-combined": "^0.3.3"
+    "vuereact-combined": "^0.3.6"
   },
   "homepage": "."
 }

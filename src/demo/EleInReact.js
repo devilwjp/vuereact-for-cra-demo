@@ -7,7 +7,7 @@ import moment from 'moment'
 import { applyVueInReact } from 'vuereact-combined'
 const VueDatePick = applyVueInReact(DatePicker)
 const VueCard = applyVueInReact(Card)
-const dateFormat = moment(new Date())
+// const dateFormat = moment(new Date())
 class demo1 extends React.Component{
     constructor (props) {
         super(props)
