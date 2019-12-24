@@ -60,7 +60,7 @@ export default [
         component: () => {
             return (
                 <Suspense fallback={<div>Loading...</div>}>
-                    <HelloWorld/>
+                    <HelloWorld wrappedComponentRef={(ref)=>{console.log(111111,ref)}}/>
                 </Suspense>
             );
         }

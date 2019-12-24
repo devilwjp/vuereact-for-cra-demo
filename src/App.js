@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
 import { renderRoutes } from 'react-router-config'
-import { HashRouter, Link } from 'react-router-dom'
+import { HashRouter, Link, withRouter } from 'react-router-dom'
 import routers from './router'
+import {applyReactRouterInVue} from 'vuereact-combined'
+applyReactRouterInVue(withRouter)
 
 function App() {
-
   return (
       <HashRouter>
         <div className="App">

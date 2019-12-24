@@ -2,8 +2,12 @@ import React from 'react'
 import Demo2 from './demo2'
 import VueComponent from '../vue_app/test2.vue' // vue组件
 import { applyVueInReact } from 'vuereact-combined'
+import { withRouter } from 'react-router-dom'
 let VueComponentInReact = applyVueInReact(VueComponent)
 class demo1 extends React.Component{
+    componentDidMount () {
+        console.log(999,this.props)
+    }
     render(){
         return (
             <div className="react-com">
@@ -25,4 +29,4 @@ class demo1 extends React.Component{
         )
     }
 }
-export default demo1
+export default withRouter(demo1)

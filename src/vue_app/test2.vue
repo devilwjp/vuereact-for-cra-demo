@@ -1,5 +1,6 @@
 <template>
     <div class="vue-com">
+        <h1>{{this.$reactRouter.location.search}}</h1>
         <h2>我是Vue组件</h2>
         <div>属性1 {{prop1}}</div>
         <div>属性2 {{prop2}}</div>
@@ -20,7 +21,7 @@
         },
         props: ['prop1', 'prop2'],
         mounted () {
-            // console.log(this)
+            console.log(this.$reactRouter)
             // this.$emit('event1', '11', '22')
             // this.$emit('input', 2222)
         }
