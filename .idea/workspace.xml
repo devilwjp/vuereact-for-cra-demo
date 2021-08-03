@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2fac26-7ae0-42d7-b353-e089b66de5e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/demo/aaa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyReactInVue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyReactRouterInVue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyRedux.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyVueInReact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyVuex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/cleanStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/lazyReactInVue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/lazyVueInReact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/vueRootInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/withVueRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vue_app/test2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/vue_app/test2.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +225,7 @@
       <workItem from="1576594849456" duration="242000" />
       <workItem from="1576682733127" duration="15267000" />
       <workItem from="1577120084299" duration="6800000" />
-      <workItem from="1628012901390" duration="8790000" />
+      <workItem from="1628012901390" duration="9604000" />
     </task>
     <servers />
   </component>
