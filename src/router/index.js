@@ -1,5 +1,5 @@
 import React, { lazy, Suspense } from "react"
-import { lazyVueInReact } from 'vuereact-combined'
+import { lazyVueInReact } from '../vuereact-combined'
 const Home = lazy(() => import("../views/Home"))
 const VueInReact1 = lazy(() => import("../demo/VueInReact1"))
 const VueInReact2 = lazy(() => import("../demo/VueInReact2"))

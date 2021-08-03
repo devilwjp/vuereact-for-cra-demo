@@ -19,11 +19,17 @@
                 name: '本地作用域'
             }
         },
-        props: ['prop1', 'prop2'],
+      updated() {
+          console.log('updated!!!!!')
+      },
+      destroyed() {
+          console.log('destroyed!!!!')
+      },
+      props: ['prop1', 'prop2'],
         mounted () {
             console.log(this.$reactRouter)
-            // this.$emit('event1', '11', '22')
-            // this.$emit('input', 2222)
+            this.$emit('event1', '11', '22')
+            this.$emit('input', 2222)
         }
     }
 </script>
