@@ -2,10 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2fac26-7ae0-42d7-b353-e089b66de5e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyReactInVue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyReactRouterInVue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyRedux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyVueInReact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyVuex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/cleanStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/lazyReactInVue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/lazyVueInReact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/vueRootInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/withVueRouter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.5d02fe324f402b0a144cb802fbb2913b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.c480b299.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.c480b299.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.fe0944dd.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.fe0944dd.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.80a205e2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.80a205e2.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/3.df883b4a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/3.df883b4a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.4b5aee00.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.4b5aee00.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/5.fe4ee782.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/5.fe4ee782.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/6.c205c1ca.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/6.c205c1ca.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/7.9bc0f4f2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/7.9bc0f4f2.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/8.77be88ee.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/8.77be88ee.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/9.3558fc95.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/9.3558fc95.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.393d775b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.393d775b.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.d9a787e5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.d9a787e5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/element-icons.535877f5.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/element-icons.732389de.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/logo.25bf045c.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/VueInReact1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/VueInReact1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/VueInReact2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/VueInReact2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +161,9 @@
     <option name="height" value="1790" />
   </component>
   <component name="ProjectId" id="1wE9UrtAgZBtIWck9C6TNnK9nyH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -194,15 +241,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\git\vuereact-for-cra-demo\src" />
-      <recent name="E:\git\vuereact-for-cra-demo\src\vue_app" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\vuereact-for-cra-demo" />
+      <recent name="C:\git\vuereact-for-cra-demo\src\vuereact-combined" />
       <recent name="E:\git\vuereact-for-cra-demo\src\demo" />
       <recent name="E:\git\vuereact-for-cra-demo\src" />
       <recent name="E:\git\vuereact-for-cra-demo\src\VueReact" />
-      <recent name="E:\git\vuereact-for-cra-demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git\vuereact-for-cra-demo\src" />
       <recent name="E:\git\vuereact-for-cra-demo\src\vue_app" />
     </key>
   </component>
@@ -225,7 +272,7 @@
       <workItem from="1576594849456" duration="242000" />
       <workItem from="1576682733127" duration="15267000" />
       <workItem from="1577120084299" duration="6800000" />
-      <workItem from="1628012901390" duration="708000" />
+      <workItem from="1628012901390" duration="3677000" />
     </task>
     <servers />
   </component>
