@@ -14,7 +14,8 @@
     "react-scripts": "3.2.0",
     "vue": "^2.6.10",
     "vue-loader": "^15.7.2",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.10",
+    "vuereact-combined": "^1.1.1"
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -38,8 +39,7 @@
     ]
   },
   "devDependencies": {
-    "react-app-rewired": "^2.1.5",
-    "vuereact-combined": "^0.3.7"
+    "react-app-rewired": "^2.1.5"
   },
   "homepage": "."
 }
