@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2fac26-7ae0-42d7-b353-e089b66de5e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.038a9738f3046623c5eb51234f444053.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.80a205e2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.80a205e2.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/3.617aae3d.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/3.617aae3d.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.550e0a93.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/4.550e0a93.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/5.bb4a213d.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/5.bb4a213d.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/6.9f623884.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/6.9f623884.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/7.9bc0f4f2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/7.9bc0f4f2.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/8.77be88ee.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/8.77be88ee.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/9.3558fc95.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/9.3558fc95.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.393d775b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.393d775b.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.619c6c72.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.619c6c72.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/EleInReact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/EleInReact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/VueInReact2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/VueInReact2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vue_app/test2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/vue_app/test2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +86,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -225,7 +263,7 @@
       <workItem from="1576594849456" duration="242000" />
       <workItem from="1576682733127" duration="15267000" />
       <workItem from="1577120084299" duration="6800000" />
-      <workItem from="1628012901390" duration="9604000" />
+      <workItem from="1628012901390" duration="29109000" />
     </task>
     <servers />
   </component>

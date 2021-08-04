@@ -11353,10 +11353,10 @@ vue@^2.6.10:
   resolved "https://registry.nlark.com/vue/download/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
   integrity sha1-5RqlJQJQ1Wmj+606ilpofWA24jU=
 
-vuereact-combined@^1.1.2-beta.3:
-  version "1.1.2-beta.3"
-  resolved "https://registry.yarnpkg.com/vuereact-combined/-/vuereact-combined-1.1.2-beta.3.tgz#da6ec6fdbdbd747c86ddf4126fd3ac3bea5f92dc"
-  integrity sha512-37XSeZL5Qw9Xh95VOinifd1O6vICMb5qWEBzDcn6OZb7uD4RaWuwnqPCWTxdSMsOV8tyD+Km4yIfrn/rPix2eg==
+vuereact-combined@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/vuereact-combined/-/vuereact-combined-1.1.2.tgz#4ce117d0ccdab513b88e3d4b2358986c9e4b1f1a"
+  integrity sha512-xljm/bx1i84sXotBDsBLMDJo17d7VYr9nwswPdGyipoO5GQv8wfbLYsdnzUerbuya8htrPJqUe0ulwDTBHIG/A==
   dependencies:
     portal-vue "^2.1.7"
 

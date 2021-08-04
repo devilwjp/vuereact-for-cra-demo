@@ -26,13 +26,13 @@ class demo2 extends React.Component{
                 }} $scopedSlots={{
                     slotC: (context) => <div style={{backgroundColor:'green'}}>我是作用域插槽：{context.value}</div>
                 }}
-                 // vue-model的使用
+                // vue-model的使用
                  $model={{
-                    value: this.state.aaa, // value必须是一个state
-                    setter: (value) => { this.setState({ aaa: value }) } // setter必须是直接修改state
-                }}>
-                <hr/>
-                <h1>我是普通的插槽</h1>
+                     value: this.state.aaa, // value必须是一个state
+                     setter: (value) => { this.setState({ aaa: value }) } // setter必须是直接修改state
+                 }}>
+                    <hr/>
+                    <h1>我是普通的插槽</h1>
                 </VueComponentInReact>
             </div>
         )

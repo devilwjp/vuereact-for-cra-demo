@@ -57,7 +57,7 @@ class demo1 extends React.Component{
                     }}>
                         <div className="react-com">
                             在element-ui的Card中应用react antd的DatePick<br/>
-                            <ReactDatePick onChange={this.onChange} defaultValue={this.state.value1&&moment(this.state.value1)}/>
+                            <ReactDatePick onChange={this.onChange} value={this.state.value1 && moment(this.state.value1)}/>
                         </div>
                     </VueCard>
                 </div>
