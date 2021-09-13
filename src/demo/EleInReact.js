@@ -59,6 +59,20 @@ class demo1 extends React.Component{
                             在element-ui的Card中应用react antd的DatePick<br/>
                             <ReactDatePick onChange={this.onChange} value={this.state.value1 && moment(this.state.value1)}/>
                         </div>
+                        <div className="vue-com">
+                            vue element-ui的datePicker
+                            <VueDatePick
+                                // 实现vue的v-model
+                                $model={{
+                                    value: this.state.value1,
+                                    setter: (val) => {
+                                        this.setState({value1:val})
+                                    }
+                                }}
+                                align="right"
+                                type="date"
+                                placeholder="选择日期"/>
+                        </div>
                     </VueCard>
                 </div>
             </div>
