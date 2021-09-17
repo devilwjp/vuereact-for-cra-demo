@@ -12576,10 +12576,10 @@ vue@^2.6.10:
   resolved "https://registry.nlark.com/vue/download/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
   integrity sha1-5RqlJQJQ1Wmj+606ilpofWA24jU=
 
-vuereact-combined@^1.1.13:
-  version "1.1.13"
-  resolved "https://registry.yarnpkg.com/vuereact-combined/-/vuereact-combined-1.1.13.tgz#9d77e4f8423a4e6ce05fb467a009434cd788e714"
-  integrity sha512-Gl/uuln7ZzQ5mDtBEZqKMqRZL1EaMF8KsUv1JnzsidE7ploVXMJ7cnATH9TgJSZevfZmKgb/3hq5kBYTawt8Pw==
+vuereact-combined@^1.1.14:
+  version "1.1.14"
+  resolved "https://registry.yarnpkg.com/vuereact-combined/-/vuereact-combined-1.1.14.tgz#0a8fedee906efefa23f18a2706c1662c944b12fb"
+  integrity sha512-yo9fohYP09xBLUSReFwr1tW8YyxYcHnhGNXoEE3NNp0ZuHan4qycqCu5wFiz23SB9ZYIlG9pu23baVTpqvTDDA==
   dependencies:
     portal-vue "^2.1.7"
 

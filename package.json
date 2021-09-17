@@ -15,7 +15,7 @@
     "vue": "^2.6.10",
     "vue-loader": "^15.7.2",
     "vue-template-compiler": "^2.6.10",
-    "vuereact-combined": "^1.1.13"
+    "vuereact-combined": "^1.1.14"
   },
   "scripts": {
     "start": "react-app-rewired start",

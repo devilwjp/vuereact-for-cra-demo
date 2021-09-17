@@ -2,34 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2fac26-7ae0-42d7-b353-e089b66de5e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyReactInVue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyReactRouterInVue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyRedux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyVueInReact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/applyVuex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/cleanStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/lazyReactInVue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/lazyVueInReact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/reactAllHandles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/vueRootInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vuereact-combined/withVueRouter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.cf6f459813de67ba180e12ef66503f88.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.80a205e2.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.80a205e2.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/3.71bb2c77.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/3.71bb2c77.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/4.2a0738fa.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/4.2a0738fa.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/5.66148c1a.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/5.66148c1a.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/6.ceda0813.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/6.ceda0813.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/7.9bc0f4f2.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/7.9bc0f4f2.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/8.77be88ee.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/8.77be88ee.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/9.07bb546b.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/9.07bb546b.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.393d775b.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.393d775b.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.0ece8ea2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.0ece8ea2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/demo/EleInReact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/EleInReact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +214,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="E:\git\vuereact-for-cra-demo\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
-    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\WebStorm 2018.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
